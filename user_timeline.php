@@ -27,7 +27,6 @@ while($row = $query->fetch_assoc()) {
 $sessionid = $row['id'];
 ?>
 
-
 <body>
 
   <!-- Wrapper required for sidebar transitions -->
