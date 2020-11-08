@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="33e1ede4-6c3e-4a46-894c-e041066a9187" name="2gether" url="http://dimitriosvergados.eu">
+        <fileTransfer host="dimitriosvergados.eu" port="21" rootFolder="/httpdocs/2gether">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveCommand="LIST" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
